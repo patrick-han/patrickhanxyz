@@ -1,0 +1,4 @@
+baseURL = 'https://patrickhan.xyz/'
+languageCode = 'en-us'
+title = 'Patrick Han'
+theme = 'hugo-classic'
