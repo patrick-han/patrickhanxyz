@@ -10,4 +10,4 @@ tags:
 
 ## Introduction
 
-Welcome to my website! Enjoy your stay.
+Welcome to my website! Enjoy your stay!
